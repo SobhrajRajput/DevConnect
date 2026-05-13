@@ -1,4 +1,4 @@
-# DevConnect - Frontend Web Developer Assessment
+# DevConnect - Frontend Web Developer 
 DevConnect is a modern web-based platform designed to connect developers and users. This project was built as a frontend assessment task using React.js to demonstrate UI/UX skills, responsive layouts, clean component structure, and modern frontend development practices.
 
 # 🚀 Features
